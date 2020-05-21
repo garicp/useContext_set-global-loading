@@ -1,0 +1,18 @@
+.comment-box {
+  width: 500px;
+  padding: 10px 15px;
+  border: 1px solid grey;
+  margin: 10px;
+  text-align: left;
+}
+
+.comment-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.comment-text {
+  font-size: 14px;
+  padding-left: 30px;
+  margin-top: 10px;
+}
